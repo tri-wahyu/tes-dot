@@ -1,0 +1,14 @@
+{
+  "makanan" : [
+    {"label":"Soto","value":"Soto"},
+    {"label":"Ayam Geprek","value":"Ayam Geprek"},
+    {"label":"Ayam Goreng","value":"Ayam Goreng"}
+  ],
+  "disc" : [
+    {"label":"30% maks Rp 50.000","value":"30|50000"},
+    {"label":"10% maks Rp 20.000","value":"10|20000"},
+    {"label":"15% maks Rp 25.000","value":"15|25000"},
+    {"label":"5% maks Rp 10.000","value":"5|10000"}
+    
+  ]
+}
